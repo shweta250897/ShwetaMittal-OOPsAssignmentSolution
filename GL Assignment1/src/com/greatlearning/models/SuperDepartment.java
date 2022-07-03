@@ -2,17 +2,17 @@ package com.greatlearning.models;
 
 public class SuperDepartment {
 	
-	String departmentName() {
+	public String departmentName() {
 		
 		return "Super Department";
 	}
 	
-	String getTodaysWork() {
+	public String getTodaysWork() {
 		
 		return "No Work as of now";
 	}
 	
-	String getWorkDeadline() {
+	public String getWorkDeadline() {
 		
 		return "Nil";
 	}
